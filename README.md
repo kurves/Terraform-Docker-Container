@@ -17,4 +17,9 @@
 ```
 git clone https://github.com/kurves/terraform-docker-container
 ```
+### Initialize the workspace
 
+Initialize the workspace using 
+```
+terraform init
+```
