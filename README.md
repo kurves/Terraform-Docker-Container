@@ -14,11 +14,11 @@
 - A [Github](https://github.com/) account
 
 This folder contains the following key files
-```main.tf```
-```variables.tf``
-```terraform.tf```
-```outputs.tf```
-```versions.tf```
+```main.tf``` - 
+```variables.tf`` -
+```terraform.tf```-
+```outputs.tf``` -
+```versions.tf```-
 
 
 
