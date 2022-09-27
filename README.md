@@ -13,10 +13,7 @@
 - [AWS account] to create resources
 
 ### Terraform commands
-```
-terraform login
-```
-to authenticate through the cloud
+```terraform login``` - to authenticate through the cloud
 
 ```
 terraform init
