@@ -12,3 +12,9 @@
 - The [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) installed
 - [AWS account] to create resources
 
+
+### Clone the repository
+```
+git clone https://github.com/kurves/terraform-docker-container
+```
+
