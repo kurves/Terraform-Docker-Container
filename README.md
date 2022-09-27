@@ -14,9 +14,10 @@
 - A [Github](https://github.com/) account
 
 This folder contains the following key files
+
 ```main.tf``` - 
 
-```variables.tf`` -
+```variables.tf``` -
 
 ```terraform.tf```-
 
