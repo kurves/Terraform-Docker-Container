@@ -12,6 +12,15 @@
 - The [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) installed
 - [AWS account] to create resources
 
+### Terraform commands
+```
+terraform login
+```
+to authenticate through the cloud
+
+```
+terraform init
+```
 
 ### Clone the repository
 ```
