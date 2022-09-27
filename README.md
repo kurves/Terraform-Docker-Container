@@ -13,6 +13,16 @@
 - [AWS account] to create resources
 - A [Github](https://github.com/) account
 
+This folder contains the following key files
+```main.tf```
+```variables.tf``
+```terraform.tf```
+```outputs.tf```
+```versions.tf```
+
+
+
+
 ### Terraform commands
 ```terraform login``` - to authenticate through terraform cloud
 
