@@ -23,7 +23,7 @@ This folder contains the following key files
 
 ```versions.tf```-  defines version constraints for Terraform and the AWS provider and the cloud block for the Terraform Cloud integration.
 
-```terraform.tf```-
+```terraform.tf```
 
 
 ### Terraform commands
