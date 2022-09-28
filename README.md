@@ -15,9 +15,9 @@
 
 This folder contains the following key files
 
-```main.tf``` - 
+```main.tf``` -  specifies the AWS provider, a provider plugin that Terraform will use to manage your AWS resources. 
 
-```variables.tf``` -
+```variables.tf``` - defines the input variables 
 
 ```terraform.tf```-
 
