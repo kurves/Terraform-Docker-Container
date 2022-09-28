@@ -19,13 +19,11 @@ This folder contains the following key files
 
 ```variables.tf``` - defines the input variables 
 
-```terraform.tf```-
-
 ```outputs.tf``` -  defines the information about your infrastructure that Terraform Cloud will display to you when it makes changes.
 
 ```versions.tf```-  defines version constraints for Terraform and the AWS provider and the cloud block for the Terraform Cloud integration.
 
-
+```terraform.tf```-
 
 
 ### Terraform commands
