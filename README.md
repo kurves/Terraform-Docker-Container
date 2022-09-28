@@ -10,7 +10,8 @@
 - A terraform [Cloud Account](https://app.terraform.io/signup/account?utm_source=learn&_gl=1*39uqcl*_ga*MjUxMTA3NjQ4LjE2NjQxMTMxODU.*_ga_P7S46ZYEKW*MTY2NDMwOTI5MS44LjAuMTY2NDMwOTI5MS4wLjAuMA..) and organisation
 
 - The [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) installed
-- [AWS account] to create resources
+- [AWS account](https://aws.amazon.com/free/?trk=712ee378-d73b-4293-9bad-8ce09671ea7c&sc_channel=ps&s_kwcid=AL!4422!3!444219541850!e!!g!!aws%20console&ef_id=CjwKCAjw4c-ZBhAEEiwAZ105Rf5wHNi-AEdMfd8_ZPOUaU1CogBX-P7LKUrcX9BouU9QpqwKdLn5HxoCkIQQAvD_BwE:G:s&s_kwcid=AL!4422!3!444219541850!e!!g!!aws%20console) to create resources
+
 - A [Github](https://github.com/) account
 
 This folder contains the following key files
