@@ -1,4 +1,4 @@
-# terraform-docker-container
+# Terraform-Docker-Container
 
 ## Creating Infrastructure Using Terraform
 - Provision an EC2 Instance on AWS
