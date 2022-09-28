@@ -21,9 +21,9 @@ This folder contains the following key files
 
 ```terraform.tf```-
 
-```outputs.tf``` -
+```outputs.tf``` -  defines the information about your infrastructure that Terraform Cloud will display to you when it makes changes.
 
-```versions.tf```-
+```versions.tf```-  defines version constraints for Terraform and the AWS provider and the cloud block for the Terraform Cloud integration.
 
 
 
