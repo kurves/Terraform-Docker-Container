@@ -30,7 +30,7 @@ This folder contains the following key files
 ### Terraform commands
 ```terraform login``` - to authenticate through terraform cloud
 
-```terraform init``` - 
+```terraform init``` - run this to initialize the configuration and create your new Cloud Terraform workspace
 
 ### Clone the repository
 ```
