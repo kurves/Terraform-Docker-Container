@@ -52,8 +52,7 @@ apply the configuration using
 ```
 terraform apply
 ```
-### Clean up resources
-after verifying that the the resources were deployed successfully, clean up using;
+
 ### Format the configuration
 The format command scans the current directory for configuration files 
 
@@ -61,11 +60,8 @@ The format command scans the current directory for configuration files
 terraform fmt
 ```
 
-
-```
-terraform fmt
-```
-
+### Clean up resources
+after verifying that the the resources were deployed successfully, clean up using;
 ```
 terraform destroy
 ```
