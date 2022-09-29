@@ -40,8 +40,6 @@ git clone https://github.com/kurves/terraform-docker-container
 ```
 cd terraform-aws-instance
 ```
-
-
 ### Initialize the workspace
 
 Initialize the workspace using 
@@ -53,4 +51,10 @@ terraform init
 apply the configuration using 
 ```
 terraform apply
+```
+### Clean up resources
+after verifying that the the resources were deployed successfully, clean up using;
+
+```
+terraform destroy
 ```
