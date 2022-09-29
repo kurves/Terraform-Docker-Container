@@ -32,10 +32,16 @@ This folder contains the following key files
 
 ```terraform init``` - run this to initialize the configuration and create your new Cloud Terraform workspace
 
-### Clone the repository
+#### Clone the repository
 ```
 git clone https://github.com/kurves/terraform-docker-container
 ```
+#### cd  into the new directory
+```
+cd terraform-aws-instance
+```
+
+
 ### Initialize the workspace
 
 Initialize the workspace using 
