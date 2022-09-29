@@ -48,3 +48,9 @@ Initialize the workspace using
 ```
 terraform init
 ```
+### apply the configuration
+
+apply the configuration using 
+```
+terraform apply
+```
