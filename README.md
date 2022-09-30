@@ -60,13 +60,13 @@ The format command scans the current directory for configuration files
 terraform fmt
 ```
 ### Validate your configuration
-to check your configuration use;
+Check your configuration use;
 ```
 terraform validate
 ```
 
 ### Clean up resources
-after verifying that the the resources were deployed successfully, clean up using;
+After verifying that the the resources were deployed successfully, clean up using;
 ```
 terraform destroy
 ```
