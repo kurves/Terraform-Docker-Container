@@ -14,6 +14,8 @@
 
 - A [Github](https://github.com/) account
 
+- A [git CLI](https://git-scm.com/downloads)
+
 This folder contains the following key files
 
 ```main.tf``` -  specifies the AWS provider, a provider plugin that Terraform will use to manage your AWS resources. 
