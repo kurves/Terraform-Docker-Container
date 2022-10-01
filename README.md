@@ -46,7 +46,7 @@ cd terraform-aws-instance
 ```
 ### Initialize the workspace
 
-Initialize the workspace using 
+Initialize the workspace using, initialize backends and install plugins
 ```
 terraform init
 ```
