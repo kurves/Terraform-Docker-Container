@@ -18,6 +18,8 @@
 
 This folder contains the following key files
 
+```README.md``` - Contains documentation
+
 ```main.tf``` -  specifies the AWS provider, a provider plugin that Terraform will use to manage your AWS resources. 
 
 ```variables.tf``` - defines the input variables 
