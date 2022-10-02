@@ -13,6 +13,11 @@ resource "aws_instance" "kurves-instance" {
               echo "Hello, World- terrfaorm" > index.html
               nohup busybox httpd -f -p 8000 &
               EOF
+              
+    lifecycle {
+    create_before_destroy = true
+  }
+              
 }
 
 resource "aws_security_group" "kurves-instance" {
