@@ -5,4 +5,10 @@ resource "aws_instance" "kurves-instance" {
   
    tags = {
     Name = "terraform-kurves"
+    
+    user_data = <<-EOF
+              #!/bin/bash
+              echo "Hello, World- terrfaorm" > index.html
+              nohup busybox httpd -f -p 8000 &
+              EOF
 }
