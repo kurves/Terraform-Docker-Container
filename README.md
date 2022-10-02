@@ -74,7 +74,7 @@ After verifying that the the resources were deployed successfully, clean up usin
 ```
 terraform destroy
 ```
-### working with modules
+### Working with modules
 use this to install modules
 ```
 terraform get
