@@ -2,4 +2,7 @@
 resource "aws_instance" "kurves-instance" {
   ami           = "ami-0c55b159cbfafe1t0"
   instance_type = "t2.micro"
+  
+   tags = {
+    Name = "terraform-kurves"
 }
