@@ -40,6 +40,7 @@ resource "aws_autoscaling_group" "kurves-asg" {
     availability_zones   = data.aws_availability_zones.all.names
   min_size = 2
   max_size = 10
+  load_balancers    = [aws_elb.kurves-instance.name]
   tag {
     key                 = "Name"
     value               = "terraform-asg-kurves"
