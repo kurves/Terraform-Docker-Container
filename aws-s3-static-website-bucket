@@ -49,6 +49,7 @@ resource "aws_autoscaling_group" "kurves-asg" {
 resource "aws_elb" "kurves-lb" {
   name               = "terraform-asg-kurves"
   availability_zones = data.aws_availability_zones.all.names
+  security_groups    = [aws_security_group.elb.id]
   
    # This adds a listener for incoming HTTP requests.
   listener {
