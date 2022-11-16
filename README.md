@@ -9,6 +9,11 @@ Terraform allows you to use a consistent workflow over your infrastructure lifec
 
 In Terraform Cloud, your resources are organized by workspaces.
 
+### The workspaces contain:
+
+- Resource definitions,
+- Environment and input variables
+- State files.
 
 
 ## Terraform-Docker-Container
