@@ -1,3 +1,9 @@
+
+## Terraform
+
+Terraform is an infrastructure as code tool.It allows one to define and manage infrastructure resources through human-readable configuration files
+
+
 # Terraform-Docker-Container
 
 ## Creating Infrastructure Using Terraform
