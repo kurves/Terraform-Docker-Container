@@ -5,6 +5,11 @@ Terraform is an infrastructure as code tool.It allows one to define and manage i
 
 Terraform allows you to use a consistent workflow over your infrastructure lifecycle. The infrastructure as code workflow lets your declaratively manage a variety of services and automate your changes, reducing the risk of human error through manual operations.
 
+## Workflows
+
+In Terraform Cloud, your resources are organized by workspaces.
+
+
 
 ## Terraform-Docker-Container
 
