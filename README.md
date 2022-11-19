@@ -18,7 +18,7 @@ In Terraform Cloud, your resources are organized by workspaces.
 Terraform Cloud builds on these features by managing Terraform runs in a consistent and reliable environment instead of on your local machine.
 It securely stores state and secret data, and can connect to version control systems so that you can develop your infrastructure using a workflow similar to application development. 
 
-
+Terraform Cloud helps you collaborate on each step of your infrastructure development process. For example, each time you plan a new change, your team can review and approve the plan before you apply it.
 
 
 
